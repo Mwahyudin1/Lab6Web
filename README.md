@@ -13,6 +13,6 @@
 - Lalu pergih ke halaman web `bootstrap` untuk mengunduh berkasnya supaya bisa kita gunakan `framework-nya`, untuk mengunduhnya silakan kunjungi `http://getbootstrap.com/`, setelah terunduh silakan ekstrak filnya terlebih dahulu.
 
 - Selanjutnya akan membuat struktur `HTML`
-  ![step-1][def]
+  [Imgur][def]
 
-[def]: https://imgur.com/qTpOmgK
+[def]: https://i.imgur.com/qTpOmgK.png
