@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* style container */
+.container {
+  width: 980px;
+  box-shadow: 0 0 20px gray;
+}
+
+/* style header */
+header {
+  padding: 35px 20px;
+}
+
+header h1 {
+  color: #b5b5b5;
+  font-weight: bold;
+}
+
+/* style navbar */
+.navbar {
+  margin: 0 -24px;
+}
+
+.nav-item {
+  margin: 0 30px;
+}
+
+.fw-bold {
+  color: white;
+}
+
+.navbar-nav .nav-item:hover {
+  background-color: #0063ce;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+  color: #fff;
+}
+
+/* style hero */
+.hero {
+  background-color: rgb(222, 222, 222);
+  margin: -12px;
+  padding: 35px 30px;
+  border-bottom: 2px solid gray;
+}
+
+.hero h2 {
+  color: rgb(96, 96, 96);
+}
+
+.hero a {
+  color: white;
+}
+
+/* style row */
+
+/* style widget */

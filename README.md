@@ -13,4 +13,14 @@
 - Lalu pergih ke halaman web `bootstrap` untuk mengunduh berkasnya supaya bisa kita gunakan `framework-nya`, untuk mengunduhnya silakan kunjungi `http://getbootstrap.com/`, setelah terunduh silakan ekstrak filnya terlebih dahulu.
 
 - Selanjutnya akan membuat struktur `HTML`
-  ![Imgur](https://i.imgur.com/qTpOmgK.png)
+  ![gambar-1](https://i.imgur.com/kFE8vnc.png)
+
+- Lalu membuat kode untuk membuat halaman `layout sederhana-nya`.
+- `HTML`
+  ![gambar-2](https://i.imgur.com/vjij9Tg.png)
+  ![gambar-3](https://i.imgur.com/69OJwwS.png)
+  ![gambar-4](https://i.imgur.com/5djqANm.png)
+  ![gambar-5](https://i.imgur.com/dwSonQm.png)
+
+- `Hasilnya`
+  ![gambar-6](https://i.imgur.com/VzkILsf.png)
